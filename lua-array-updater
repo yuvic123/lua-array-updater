@@ -15,5 +15,6 @@ local a = [
   "dasdas",
   "asdasdagfewq",
   "asfweewrrewwer",
-  "aadsssssssssssss"
+  "aadsssssssssssss",
+  "print(\"hello world\")"
 ]
