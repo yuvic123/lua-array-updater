@@ -1,1 +1,6 @@
-local a = {"afdasd", "asfwewrwe", "asfasfdasfg"}
+local a = [
+  "afdasd",
+  "asfwewrwe",
+  "asfasfdasfg",
+  "asd"
+]
